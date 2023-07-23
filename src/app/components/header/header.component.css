@@ -1,0 +1,4 @@
+.text-dark:hover {
+    opacity: .8;
+    transition: all .2s linear;
+}
